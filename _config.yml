@@ -1,0 +1,20 @@
+title: AllStarLink Node 588415
+description: >-
+  Node information and change history for AllStarLink node 588415, operated by KJ7T.
+theme: minima
+minima:
+  skin: classic
+show_excerpts: false
+
+# Simple manual nav — minima will list any page below that has a title
+# and isn't excluded, in the order they're listed here.
+header_pages:
+  - about.md
+  - changelog.md
+
+plugins:
+  - jekyll-feed
+
+exclude:
+  - README.md
+home_url: https://kj7t.github.io/
